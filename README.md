@@ -6,14 +6,11 @@
 
 ##  Repository Overview
   
-  dynamic_traffic_manager/
-  ├── real_time_counting.py # Captures video and counts vehicles in real time
-  ├── vehicle_counting.py # Performs vehicle detection/counting on recorded footage
-  ├── yolov5su.pt # Trained YOLOv5 model weights
-  └── Traffic images/ # Sample images or visuals used in development and testing
-
-
-*(Based on current repository listing)* :contentReference[oaicite:0]{index=0}
+  dynamic_traffic_manager/<br>
+  ├── real_time_counting.py # Captures video and counts vehicles in real time<br>
+  ├── vehicle_counting.py # Performs vehicle detection/counting on recorded footage<br>
+  ├── yolov5su.pt # Trained YOLOv5 model weights<br>
+  └── Traffic images/ # Sample images or visuals used in development and testing<br>
 
 ---
 
